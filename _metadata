@@ -1,0 +1,10 @@
+{
+  "version" : "1.0",
+  "friendlyName" : "Character Creation Extender Lite",
+  "link" : "",
+  "priority" : -1,
+  "steamContentId" : "",
+  "name" : "ccextender_lite",
+  "description" : "Minimally adds 12 buttons for extra species, and a clothing preview option.",
+  "author" : "Mntle"
+}

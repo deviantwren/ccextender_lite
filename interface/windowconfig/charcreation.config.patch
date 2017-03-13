@@ -1,0 +1,136 @@
+[
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 7,
+    "image" : "",
+    "position" : [192, 0]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 8,
+    "image" : "",
+    "position" : [214, 0]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 9,
+    "image" : "",
+    "position" : [192, -24]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 10,
+    "image" : "",
+    "position" : [214, -24]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 11,
+    "image" : "",
+    "position" : [192, -48]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 12,
+    "image" : "",
+    "position" : [214, -48]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 13,
+    "image" : "",
+    "position" : [192, -72]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 14,
+    "image" : "",
+    "position" : [214, -72]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 15,
+    "image" : "",
+    "position" : [192, -96]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 16,
+    "image" : "",
+    "position" : [214, -96]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 15,
+    "image" : "",
+    "position" : [192, -120]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 16,
+    "image" : "",
+    "position" : [214, -120]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/labelToggleClothing",
+  "value" : {
+	"type" : "label",
+	"position" : [142, 216],
+	"hAnchor" : "left",
+	"value" : "Clothes Preview",
+	"color" : [190, 190, 190]
+	}
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/btnToggleClothing",
+  "value" : {
+	"type" : "button",
+	"base" : "/interface/title/checkboxnocheck.png",
+	"hover" : "/interface/title/checkboxnocheckhover.png",
+	"baseImageChecked" : "/interface/title/checkboxcheck.png",
+	"hoverImageChecked" : "/interface/title/checkboxcheckhover.png",
+	"checkable" : true,
+	"checked" : true,
+	"position" : [130, 215],
+	"callback" : "toggleClothing"
+	}
+  }
+]
